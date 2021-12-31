@@ -1,0 +1,19 @@
+/* Write your code here */
+.list-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  width: 40vw;
+}
+.image-profile {
+  height: 150px;
+  width: 150px;
+}
+.description {
+  text-align: center;
+}
+.name {
+  color: #ffffff;
+}
